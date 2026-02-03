@@ -2,7 +2,7 @@ import "./App.css";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import HomePage from "./pages/HomePage";
 import BlogPage from "./pages/BlogPage";
-import BlogDetailsPAGE from "./pages/BlogDetailsPAGE";
+import BlogDetailsPAGE from "./pages/BlogDetailsPage";
 import NotFoundPage from "./pages/NotFoundPage";
 import Layout from "./components/Layout";
 import AboutUsPage from "./pages/AboutUsPage";
